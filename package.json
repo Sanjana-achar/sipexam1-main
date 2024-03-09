@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@auth0/auth0-react": "^2.2.4",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "express-session": "^1.18.0",
+    "mongoose": "^8.2.1",
+    "nodemon": "^3.1.0",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-local": "^1.0.0",
+    "react-image-crop": "^11.0.5",
+    "sharp": "^0.33.2"
+  },
+  "name": "sipexam1",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
